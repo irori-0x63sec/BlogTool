@@ -1,4 +1,4 @@
-## 📘 Specification Overview (v1.2.18)
+## 📘 Specification Overview (v1.3.1)
 
 BlogTool is a lightweight, cross-platform Markdown blog editor and analytics tool.  
 It currently supports mock posting for Qiita and Note, with a plugin architecture for easy platform extension.
