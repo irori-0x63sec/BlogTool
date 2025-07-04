@@ -4,7 +4,7 @@ key_path = "/home/kali/.BlogTool/Tokens/fernet.key"
 token_path = "/home/kali/.BlogTool/Tokens/key"
 
 # Qiita APIトークン（文字列）をここに貼る
-plaintext_token = b"256145e353e188de99c4bc2dd7e92b1c096ff502"
+plaintext_token = b""
 
 # キー読み込み（存在しなければエラー）
 with open(key_path, "rb") as f:
