@@ -1,6 +1,6 @@
 import requests
 
-token = "20f57019-7a8d-4b0c-9bd9-37a0f13eb3e1"
+token = ""
 
 query = """
 query {
